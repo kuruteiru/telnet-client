@@ -1,0 +1,12 @@
+[15:30:34][NATTCore][INFO] Entering to the server host mode ...
+[15:30:34][MessageBuffer][INFO] Message buffer created for module with name: telnet-server-echo
+[15:30:34][TelnetServer][INFO] (telnet-server-echo) Server socket is listening on port 9999
+[15:30:44][MessageBuffer][INFO] Message added to buffer [ Mod: telnet-server-echo | Tag: client-1 ] Content: 'ahoj'
+[15:30:44][TelnetServer][INFO] (telnet-server-echo) Message send: ahoj
+[15:30:47][MessageBuffer][INFO] Message added to buffer [ Mod: telnet-server-echo | Tag: client-1 ] Content: 'jajaja'
+[15:30:47][TelnetServer][INFO] (telnet-server-echo) Message send: jajaja
+[15:30:50][MessageBuffer][INFO] Message added to buffer [ Mod: telnet-server-echo | Tag: client-1 ] Content: 'gadzu'
+[15:30:50][TelnetServer][INFO] (telnet-server-echo) Message send: gadzu
+[15:31:01][MessageBuffer][INFO] Message added to buffer [ Mod: telnet-server-echo | Tag: client-1 ] Content: ''
+[15:31:01][TelnetServer][INFO] (telnet-server-echo) Message send: 
+[15:31:05][TelnetServer][INFO] (telnet-server-echo) Client disconnected
